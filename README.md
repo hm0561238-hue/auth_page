@@ -1,16 +1,19 @@
-# am_app
+📌 Project Description
 
-A new Flutter project.
+This repository contains a Flutter Login and Sign Up Screen UI with a modern and clean design. It provides a responsive, user-friendly, and customizable authentication interface that can be easily integrated into any Flutter project.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+✨ Attractive UI with smooth layout and design
 
-A few resources to get you started if this is your first Flutter project:
+📱 Responsive design (works on both Android & iOS)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔐 Login Screen with email/username & password fields
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🆕 Sign Up Screen with name, email, password, and confirm password fields
+
+👁️ Password visibility toggle
+
+🔄 Easy navigation between Login & Sign Up pages
+
+🎨 Customizable colors, fonts, and styles
